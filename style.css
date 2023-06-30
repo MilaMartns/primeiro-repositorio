@@ -14,14 +14,28 @@
     color: white;
     display: flex;
     justify-content: space-around;
+
+    
 }
 
 .cabecalho-imagem {
     width: 20%;
 }
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
+.cabecalho-texto1{
+    // Me conheça! ×͜×
+color: #070207;
+ font-size: 64px;
+ font-family: Jua;
+ font-weight: 400;
+ word-wrap: break-word
+ width: 100%; height: 100%; color: #070207; font-size: 64px; font-family: Jua; font-weight: 400; word-wrap: break-word;
+}
+.cabecalho-texto2{
+    // Olá! Me chamo Camila, tenho 16 anos. E uma curiosidade sobre mim, é que amo ler livros de diferentes genêros, gosto de entrar em mundos diferentes.
+    color: white;
+     font-size: 24px;
+     font-family: Jua;
+     font-weight: 400;
+     word-wrap: break-word;
+     width: 100%; height: 100%; color: white; font-size: 24px; font-family: Jua; font-weight: 400; word-wrap: break-word;
 }
