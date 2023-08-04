@@ -19,23 +19,38 @@
 }
 
 .cabecalho-imagem {
-    width: 20%;
+    position: absolute;
+    left: -80px;
+    width: 624px;
+    height: 400px;
+    flex-shrink: 0;
 }
 .cabecalho-texto1{
-    // Me conheça! ×͜×
-color: #070207;
- font-size: 64px;
- font-family: Jua;
- font-weight: 400;
- word-wrap: break-word
- width: 100%; height: 100%; color: #070207; font-size: 64px; font-family: Jua; font-weight: 400; word-wrap: break-word;
+    position: absolute;
+    left: 950px;
+    width: 590px;
+    height: 90px;
+    flex-shrink: 0;
+    color: #070207;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: Jua;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
 }
 .cabecalho-texto2{
-    // Olá! Me chamo Camila, tenho 16 anos. E uma curiosidade sobre mim, é que amo ler livros de diferentes genêros, gosto de entrar em mundos diferentes.
-    color: white;
-     font-size: 24px;
-     font-family: Jua;
-     font-weight: 400;
-     word-wrap: break-word;
-     width: 100%; height: 100%; color: white; font-size: 24px; font-family: Jua; font-weight: 400; word-wrap: break-word;
+    left: 800px;
+    position: absolute;
+    top: 140px;
+    width: 763px;
+    height: 125px;
+    flex-shrink: 0;
+    color: #FFF;
+font-family: Jua;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
