@@ -20,10 +20,12 @@
 
 .cabecalho-imagem {
     position: absolute;
-    left: -80px;
-    width: 624px;
-    height: 400px;
+    left: 112px;
+    width: 725px;
+    height: 428px;
     flex-shrink: 0;
+    top: -25px;
+
 }
 .cabecalho-texto1{
     position: absolute;
